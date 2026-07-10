@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productList>
+  <product>
+    <product_id>33</product_id>
+    <product_name>Man's Table</product_name>
+    <product_price>2500.00</product_price>
+    <product_quantity>12</product_quantity>
+    <product_description>Description kemerutyyy</product_description>
+    <product_details>Details kemerutyyyy</product_details>
+    <product_photo>item1.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 13:27:14</created_at>
+    <updated_at>2025-04-23 13:27:42</updated_at>
+  </product>
+  <product>
+    <product_id>36</product_id>
+    <product_name>Round Table</product_name>
+    <product_price>123.00</product_price>
+    <product_quantity>12</product_quantity>
+    <product_description>This is description</product_description>
+    <product_details>This is details</product_details>
+    <product_photo>../uploads/prod_68087e7a3a7c52.12009575.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 13:45:30</created_at>
+    <updated_at>2025-04-23 13:45:30</updated_at>
+  </product>
+  <product>
+    <product_id>37</product_id>
+    <product_name>Green Artificial Plant</product_name>
+    <product_price>240.00</product_price>
+    <product_quantity>20</product_quantity>
+    <product_description>Good for decorating indoor</product_description>
+    <product_details>Artificial Plant </product_details>
+    <product_photo>../uploads/prod_680888121a77c7.00878706.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:26:26</created_at>
+    <updated_at>2025-04-23 14:26:26</updated_at>
+  </product>
+  <product>
+    <product_id>38</product_id>
+    <product_name>L-shape Sofa</product_name>
+    <product_price>3000.00</product_price>
+    <product_quantity>3</product_quantity>
+    <product_description>This is direct from factory.</product_description>
+    <product_details>L-shape type sofa</product_details>
+    <product_photo>../uploads/prod_6808888faa7ba7.41691147.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:28:31</created_at>
+    <updated_at>2025-04-23 14:28:31</updated_at>
+  </product>
+  <product>
+    <product_id>39</product_id>
+    <product_name>Circle Mirror</product_name>
+    <product_price>800.00</product_price>
+    <product_quantity>10</product_quantity>
+    <product_description>Good for modern design.</product_description>
+    <product_details>Circle and flat mirror</product_details>
+    <product_photo>../uploads/prod_680889437c1834.65805523.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:31:31</created_at>
+    <updated_at>2025-04-23 14:31:31</updated_at>
+  </product>
+  <product>
+    <product_id>40</product_id>
+    <product_name>Fishing lamp</product_name>
+    <product_price>500.00</product_price>
+    <product_quantity>20</product_quantity>
+    <product_description>Looks like a bait rod.</product_description>
+    <product_details>Adjustable</product_details>
+    <product_photo>../uploads/prod_68088abbe81464.06521196.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:37:47</created_at>
+    <updated_at>2025-04-23 14:37:47</updated_at>
+  </product>
+  <product>
+    <product_id>41</product_id>
+    <product_name>Hanging Plants</product_name>
+    <product_price>1000.00</product_price>
+    <product_quantity>30</product_quantity>
+    <product_description>Good for decorating outdoor.</product_description>
+    <product_details>Artificial</product_details>
+    <product_photo>../uploads/prod_68088b700fa6a3.65990220.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 14:40:48</created_at>
+    <updated_at>2025-04-23 14:40:48</updated_at>
+  </product>
+  <product>
+    <product_id>42</product_id>
+    <product_name>Wavy Mirror</product_name>
+    <product_price>250.00</product_price>
+    <product_quantity>20</product_quantity>
+    <product_description>Perfect for table mirror.</product_description>
+    <product_details>Wood and glass</product_details>
+    <product_photo>../uploads/prod_68088ce694ecf3.70433498.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:47:02</created_at>
+    <updated_at>2025-04-23 14:47:02</updated_at>
+  </product>
+  <product>
+    <product_id>43</product_id>
+    <product_name>Shoe Rack</product_name>
+    <product_price>230.00</product_price>
+    <product_quantity>32</product_quantity>
+    <product_description>Easy assembly and space-saving</product_description>
+    <product_details>Durable</product_details>
+    <product_photo>../uploads/prod_68088e2355e465.49234109.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:52:19</created_at>
+    <updated_at>2025-04-23 14:52:19</updated_at>
+  </product>
+  <product>
+    <product_id>46</product_id>
+    <product_name>Study Table</product_name>
+    <product_price>2000.00</product_price>
+    <product_quantity>10</product_quantity>
+    <product_description>Good for study.</product_description>
+    <product_details>2 drawer</product_details>
+    <product_photo>../uploads/prod_68088f82758409.37802981.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 14:58:10</created_at>
+    <updated_at>2025-04-23 14:58:10</updated_at>
+  </product>
+  <product>
+    <product_id>47</product_id>
+    <product_name>Shoe Shelf</product_name>
+    <product_price>600.00</product_price>
+    <product_quantity>25</product_quantity>
+    <product_description>Good for walls decoration.</product_description>
+    <product_details>Long shelf</product_details>
+    <product_photo>../uploads/prod_68088ff61ea140.55169825.jpg</product_photo>
+    <product_category>indoor</product_category>
+    <created_at>2025-04-23 15:00:06</created_at>
+    <updated_at>2025-04-23 15:00:06</updated_at>
+  </product>
+  <product>
+    <product_id>48</product_id>
+    <product_name>Contemporary Hanging Chair</product_name>
+    <product_price>2200.00</product_price>
+    <product_quantity>2</product_quantity>
+    <product_description>Make you comfortable at outdoor.</product_description>
+    <product_details>Material: rattan, polymer</product_details>
+    <product_photo>../uploads/prod_680890a43f2106.60252346.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:03:00</created_at>
+    <updated_at>2025-04-23 15:03:00</updated_at>
+  </product>
+  <product>
+    <product_id>49</product_id>
+    <product_name>Plant stand</product_name>
+    <product_price>1200.11</product_price>
+    <product_quantity>13</product_quantity>
+    <product_description>Make your plants looks clean and aesthetic.</product_description>
+    <product_details>Many slots for plants</product_details>
+    <product_photo>../uploads/prod_6808913f6de529.81418307.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:05:35</created_at>
+    <updated_at>2025-04-23 15:05:35</updated_at>
+  </product>
+  <product>
+    <product_id>50</product_id>
+    <product_name>Metal Plant Stand</product_name>
+    <product_price>500.00</product_price>
+    <product_quantity>20</product_quantity>
+    <product_description>Simple and clean looking stand.</product_description>
+    <product_details>3 tier</product_details>
+    <product_photo>../uploads/prod_6808918c458299.36942097.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:06:52</created_at>
+    <updated_at>2025-04-23 15:06:52</updated_at>
+  </product>
+  <product>
+    <product_id>51</product_id>
+    <product_name>Candle Stickholder</product_name>
+    <product_price>250.00</product_price>
+    <product_quantity>12</product_quantity>
+    <product_description>This is hanging lantern.</product_description>
+    <product_details>Made with iron</product_details>
+    <product_photo>../uploads/prod_6808925bbf0c97.75308552.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:10:19</created_at>
+    <updated_at>2025-04-23 15:10:19</updated_at>
+  </product>
+  <product>
+    <product_id>52</product_id>
+    <product_name>Cute Flower Pot</product_name>
+    <product_price>300.00</product_price>
+    <product_quantity>36</product_quantity>
+    <product_description>You can hang the flower pot.</product_description>
+    <product_details>Hanging swing included</product_details>
+    <product_photo>../uploads/prod_680893a9a1f7e9.51727766.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:15:53</created_at>
+    <updated_at>2025-04-23 15:15:53</updated_at>
+  </product>
+  <product>
+    <product_id>53</product_id>
+    <product_name>Wood Door Hanger</product_name>
+    <product_price>200.00</product_price>
+    <product_quantity>12</product_quantity>
+    <product_description>Welcome your vistor with this wood hanger.</product_description>
+    <product_details>Wood</product_details>
+    <product_photo>../uploads/prod_68089460dd5dc9.37947796.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:18:56</created_at>
+    <updated_at>2025-04-23 15:18:56</updated_at>
+  </product>
+  <product>
+    <product_id>54</product_id>
+    <product_name>Porch Chair</product_name>
+    <product_price>700.00</product_price>
+    <product_quantity>15</product_quantity>
+    <product_description>Relaxing chair.</product_description>
+    <product_details>Two pieces chair</product_details>
+    <product_photo>../uploads/prod_6808953c3c4955.63164103.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:22:36</created_at>
+    <updated_at>2025-04-23 15:22:36</updated_at>
+  </product>
+  <product>
+    <product_id>55</product_id>
+    <product_name>Antique Table</product_name>
+    <product_price>500.00</product_price>
+    <product_quantity>20</product_quantity>
+    <product_description>Make your coffee time more relaxing.</product_description>
+    <product_details>Made with mango wood</product_details>
+    <product_photo>../uploads/prod_680895b0144e61.66928559.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:24:32</created_at>
+    <updated_at>2025-04-23 15:24:32</updated_at>
+  </product>
+  <product>
+    <product_id>56</product_id>
+    <product_name>Garden Mirror</product_name>
+    <product_price>500.00</product_price>
+    <product_quantity>22</product_quantity>
+    <product_description>Good for outdoor garden mirror.</product_description>
+    <product_details>Arch mirror type</product_details>
+    <product_photo>../uploads/prod_680896cb62a552.77148131.jpg</product_photo>
+    <product_category>outdoor</product_category>
+    <created_at>2025-04-23 15:29:15</created_at>
+    <updated_at>2025-04-23 15:29:15</updated_at>
+  </product>
+</productList>
