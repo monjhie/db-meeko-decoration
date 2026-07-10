@@ -1,4 +1,3 @@
-$json = @'
 {
   "functions": {
     "api/*.php": { "runtime": "vercel-php@0.7.4" }
@@ -8,6 +7,3 @@ $json = @'
     { "src": "/(.*)", "dest": "/api/index.php" }
   ]
 }
-'@
-
-[System.IO.File]::WriteAllText("$PWD\vercel.json", $json, (New-Object System.Text.UTF8Encoding($false)))
