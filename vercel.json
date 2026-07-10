@@ -1,9 +1,13 @@
+$json = @'
 {
   "functions": {
-    "api/index.php": { "runtime": "vercel-php@0.7.4" }
+    "api/*.php": { "runtime": "vercel-php@0.7.4" }
   },
   "routes": [
     { "src": "/(.*\\.(css|js|png|jpg|jpeg|gif|svg|ico|webp|mp4|woff|woff2|ttf|pem))", "dest": "/$1" },
     { "src": "/(.*)", "dest": "/api/index.php" }
   ]
 }
+'@
+
+[System.IO.File]::WriteAllText("$PWD\vercel.json", $json, (New-Object System.Text.UTF8Encoding($false)))
